@@ -1,4 +1,4 @@
-module github.com/mailru/dbr
+module github.com/aleksandrvalov/dbr
 
 go 1.11
 
